@@ -21,7 +21,7 @@
 
 ### 📈 GitHub Stats
 
-![Frankelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=franthony00&show_icons=true&theme=radical)
+![Frankelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankellysanchez_icons=true&theme=radical)
 
 ---
 
