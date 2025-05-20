@@ -28,7 +28,6 @@
 ### 📌 Latest Projects
 
 - 🧠 **MiTerapia AI** – A virtual AI therapist with voice support
-- 🛥️ **OceanLux** – Luxury boat rental catalog built with HTML/CSS/JS
 - 🏋️‍♂️ **FitTrainer App** – Flutter app to manage routines and diets
 
 ---
