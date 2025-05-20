@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Frankelly Sánchez
 
-### 🧠 Passionate Frontend Developer | UI/UX Enthusiast | React + TypeScript Lover
+### 🧠 Passionate Frontend Developer | UI/UX Enthusiast | React + TypeScript
 
 - 🔭 I’m currently working on building beautiful and accessible web apps
 - 🌱 I’m learning advanced animations and AI integrations
-- 🧰 Tech stack: **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, **Framer Motion**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/frankelly-sanchez) | [Portfolio](https://frankelly.dev)
+- 🧰 Tech stack: **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, **Framer Motion**, **Flutter**
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/frankelly-s%C3%A1nchez-9192771bb/) | [Portfolio](https://portafolio-six-eta-97.vercel.app/)
 
 ---
 
